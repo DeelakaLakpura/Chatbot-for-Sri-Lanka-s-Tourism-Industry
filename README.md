@@ -3,7 +3,7 @@
 ## 🚀 Project Overview
 
 This project is a **tourism-oriented chatbot** for Sri Lanka, designed to provide valuable information to tourists and users alike. The chatbot leverages the **Gemini API** to offer real-time responses, tailored recommendations, and user-friendly interactions.
-
+ 
 The chatbot aims to:
 - Assist tourists with detailed insights about Sri Lanka’s attractions.
 - Provide suggestions on places to visit, transportation options, and local experiences.
